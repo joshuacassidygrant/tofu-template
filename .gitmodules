@@ -1,0 +1,3 @@
+[submodule "Assets/tofu3d"]
+	path = Assets/tofu3d
+	url = https://github.com/joshuacassidygrant/tofu3d
