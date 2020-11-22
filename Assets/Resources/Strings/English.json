@@ -1,0 +1,24 @@
+{
+    // GENERIC
+    "GEN_continue": "Continue",
+
+
+    //MENU labels
+    "MENU_new_game": "New Game",
+    "MENU_load_game": "Load Game",
+    "MENU_options": "Options",
+    "MENU_quit_game": "Quit Game",
+    "MENU_continue_game": "Continue",
+    "MENU_save_game": "Save Game",
+
+    //ENCOUNTER TEXT
+    "ENC_T1_a1": "Test dialogue... your choices are below",
+    "ENC_T1_c1": "Choose Yes",
+    "ENC_T1_c2": "Choose No",
+    "ENC_T1_a2": "Resulting yes dialogue!",
+    "ENC_T1_a3": "Resulting no dialogue!",
+    "ENC_T1_start": "The mission begins!",
+    "ENC_T1_end": "The mission ends"
+
+
+}
